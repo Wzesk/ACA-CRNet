@@ -1,0 +1,1 @@
+Download the pre-trained [models](https://pan.baidu.com/s/1M6Mvwy7L6OWWk_Xv8aKFlA?pwd=4qgh) and place them in `experiments/pretrained_models/`.
