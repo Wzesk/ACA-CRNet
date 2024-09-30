@@ -66,7 +66,7 @@
 
 
 ## <a name="datasets"></a>🖨️ Datasets
--```RICE-I```: It consists of 500 pairs of filmy and cloud-free images obtained from Google Earth. 
+- ```RICE-I```: It consists of 500 pairs of filmy and cloud-free images obtained from Google Earth. 
 [RICE-I](https://github.com/BUPTLdy/RICE_DATASET)
 
 - ```RICE-II```: It consists of 736 pairs of images captured by Landsat 8 OLI/TIRS, including cloudy, cloudless, and mask images. The mask images were created using the Landsat Level-1 quality band to identify regions affected by clouds, cloud shadows, and cirrus clouds. The cloudless images were captured at the same location as the corresponding cloud images with a maximum interval of 15 days. [RICE-II](https://github.com/BUPTLdy/RICE_DATASET)
@@ -80,10 +80,9 @@ Download training and testing datasets and put them into the corresponding folde
 
 ## <a name="models"></a>📦 Models
 
-[Rice1 model Baidu Disk](https://pan.baidu.com/s/19a8Hv9m2XZ-etIQ8ag7nlg?pwd=asvf)
+[Rice1 model Baidu Disk](https://pan.baidu.com/s/19a8Hv9m2XZ-etIQ8ag7nlg?pwd=asvf),
+
 [Rice2 model Baidu Disk](https://pan.baidu.com/s/1__eaIT3MTz9k4qJRaXm_yw?pwd=bund)
-
-
 
 ## <a name="training"></a>🔧 Training
 
