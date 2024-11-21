@@ -196,7 +196,7 @@ If you find the code helpful in your research or work, please cite the following
 
 ## License
 <br />
-The codes and the pre-trained models in this repository are under the MIT license as specificed by the LICENSE file.
+The codes and the pre-trained models in this repository are under the MIT license as specified by the LICENSE file.
 This code is for educational and academic research purpose only.
 
 ## <a name="acknowledgements"></a>💡 Acknowledgements
