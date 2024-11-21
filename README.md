@@ -2,7 +2,7 @@
 
 [Wenli Huang](https://scholar.google.com/citations?user=CD1TJyAAAAAJ), [Ye Deng](https://www.researchgate.net/profile/Ye-Deng-9), Yang Wu, and [Jinjun Wang](https://scholar.google.com/citations?user=Dk7JgNcAAAAJ), "Attentive Contextual Attention for Cloud Removal", IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024
 
-[paper] [[arXiv](https://arxiv.org/abs/XXX)] [[pretrained models](https://pan.baidu.com/s/1M6Mvwy7L6OWWk_Xv8aKFlA?pwd=4qgh)]
+[paper] [[arXiv](http://arxiv.org/abs/2411.13042)] [[pretrained models](https://pan.baidu.com/s/1M6Mvwy7L6OWWk_Xv8aKFlA?pwd=4qgh)]
 
 #### 🔥🔥🔥 News
 
@@ -83,6 +83,9 @@ Download training and testing datasets and put them into the corresponding folde
 [Rice1 model Baidu Disk](https://pan.baidu.com/s/19a8Hv9m2XZ-etIQ8ag7nlg?pwd=asvf),
 
 [Rice2 model Baidu Disk](https://pan.baidu.com/s/1__eaIT3MTz9k4qJRaXm_yw?pwd=bund)
+
+[SEN12MS-CR model Baidu Disk](https://pan.baidu.com/s/1zcl5OqDoTHW7cg60g_67mA?pwd=kegq)
+
 
 ## <a name="training"></a>🔧 Training
 
