@@ -75,7 +75,7 @@ class CreateDataset(data.Dataset):
         pic_des = pic[-1]
         pic_class = pic[-2]
 
-        img_path_gt = '/'
+        img_path_gt = ''#'/'
         for pa in pic[:-2]:
             img_path_gt = os.path.join(img_path_gt, pa)
 
