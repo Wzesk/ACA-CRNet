@@ -12,7 +12,9 @@ import utils.visualize as visualize
 import utils.utils as utility
 import time
 import utils.img_operations as imgop
-import config.config_rice1 as config
+#import config.config_rice1 as config
+#import config.config_rice1 as config
+import config.config_rice1_test as config
 import utils.np_metric as img_met
 import numpy as np
 from dataset.rice1_data_loader import dataloader
