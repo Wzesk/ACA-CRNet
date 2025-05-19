@@ -28,7 +28,7 @@ class config():
     # net init pth, train net_init=None
     net_init = None #'./experiments/pretrained_models/rice1.pth', None
     gpu_ids=[0] #GPU ID
-    epoch = 300 # train 300
+    epoch = 3 #300 # train 300
     lr= 7e-5
     beta1= 0.9#ADAM optimize beta1
     in_ch= 3#input channel

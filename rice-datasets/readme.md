@@ -1,0 +1,9 @@
+folder for mounting gc bucket
+
+#mount
+!gcsfuse --implicit-dirs --dir-mode 777 --file-mode 777 rice-datasets dataset/rice-datasets
+
+gcsfuse --implicit-dirs rice-datasets rice-datasets
+
+#unmount
+!fusermount -u rice-datasets
