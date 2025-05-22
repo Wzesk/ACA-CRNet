@@ -8,7 +8,7 @@ from models.ACA_CRNet import ACA_CRNet
 import torch as t
 from utils.utils import SaveImg,save_result_img
 import os
-import config.config_rice1 as config
+import config.config_rice1_test as config
 from dataset.rice1_data_loader import dataloader as dataloader_r
 import utils.np_metric as img_met
 import utils.metrics_glf_cr as metrics_glf_cr

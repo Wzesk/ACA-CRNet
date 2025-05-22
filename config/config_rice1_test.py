@@ -8,9 +8,9 @@ Created on May 9 10:24:49 2024
 
 class config():
     #datasets config
-    train_datset_dir =   "./rice-datasets/RICE1/train/cloud/" # The path of the image to be train
-    predict_dataset_dir ="./rice-datasets/RICE1/test/cloud/"  # The path of the image to be predicted in testing
-    val_dataset_dir =    "./rice-datasets/RICE1/test/cloud/"  # The path of the image to be valid in training
+    train_datset_dir =   "./coastal-datasets/RICE1/train/cloud/" # The path of the image to be train
+    predict_dataset_dir ="./coastal-datasets/RICE1/test/cloud/"  # The path of the image to be predicted in testing
+    val_dataset_dir =    "./coastal-datasets/RICE1/test/cloud/"  # The path of the image to be valid in training
 
     width= 128#image size 128
     height= 128
